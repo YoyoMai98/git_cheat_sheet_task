@@ -1,0 +1,3 @@
+pwd
+  To check the full path of the current folder
+  eg. /Users/username
