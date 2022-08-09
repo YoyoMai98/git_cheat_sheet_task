@@ -1,3 +1,15 @@
 pwd
   To check the full path of the current folder
   eg. /Users/username
+
+ls
+  A list of files and folders in the current directory
+
+ls -l
+  A list of files and folders with details
+
+ls -a
+  A list of files and folders including hiding files
+
+ls -al
+  A list of files and folders including hiding files with details
