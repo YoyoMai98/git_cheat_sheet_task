@@ -72,3 +72,7 @@ git add .
 
 git commit -m
   Commit the changes from the staging area (git add)
+
+git log
+  Check the commit message
+  Press q to quit the log
