@@ -53,3 +53,7 @@ cp
 cp -r
   Copy a folder
   eg. cp -r my_directory Documents => copy my_directory folder to Documents folder
+
+open
+  Open a file or a folder
+  eg. open my_file.txt
