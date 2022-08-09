@@ -86,3 +86,6 @@ git push origin main
 
 git clone
   Clone a repository
+
+git pull
+  Update the remote repository
