@@ -79,3 +79,7 @@ git log
 
 git revert <first7digits of the commit in the log>
   Undo a commit change
+
+git remote add origin <SSH>
+git push origin main
+  Upload codes into a Github repository being created
