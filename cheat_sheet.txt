@@ -68,4 +68,7 @@ git add
   Snapshot the current change of the modified file
 
 git add .
-  Add all the changes directly 
+  Add all the changes directly
+
+git commit -m
+  Commit the changes from the staging area (git add)
