@@ -83,3 +83,6 @@ git revert <first7digits of the commit in the log>
 git remote add origin <SSH>
 git push origin main
   Upload codes into a Github repository being created
+
+git clone
+  Clone a repository
