@@ -76,3 +76,6 @@ git commit -m
 git log
   Check the commit message
   Press q to quit the log
+
+git revert <first7digits of the commit in the log>
+  Undo a commit change
