@@ -60,3 +60,6 @@ open
 
 git init
   Set up an empty Git repository in the current directory
+
+git status
+  Check the status, what git looks like at the current stage
