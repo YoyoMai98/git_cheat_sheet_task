@@ -27,3 +27,7 @@ cd ..
 mkdir
   Create a folder in the current directory
   eg. mkdir my_directory => create a folder named my_directory
+
+touch
+  Create a file in the current directory
+  eg. touch my_file.txt => create a file named my_file
