@@ -23,3 +23,7 @@ cd Documents
 
 cd ..
   Go back to one upper level directory
+
+mkdir
+  Create a folder in the current directory
+  eg. mkdir my_directory => create a folder named my_directory
