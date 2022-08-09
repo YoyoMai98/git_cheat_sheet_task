@@ -63,3 +63,9 @@ git init
 
 git status
   Check the status, what git looks like at the current stage
+
+git add
+  Snapshot the current change of the modified file
+
+git add .
+  Add all the changes directly 
