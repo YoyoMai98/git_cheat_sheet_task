@@ -39,3 +39,10 @@ rm
 rm -r
   Delete a folder
   eg. rm -r my_directory
+
+mv
+  Move a file or a folder into another folder; Rename a file
+  eg. mv my_file.txt my_directory => move my_file.txt to my_directory folder
+      mv my_directory.. => move my_directory folder to an upper level directory
+      mv my_file.txt example.txt => rename my_file.txt into example.txt
+  	
