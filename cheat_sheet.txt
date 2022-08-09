@@ -45,4 +45,11 @@ mv
   eg. mv my_file.txt my_directory => move my_file.txt to my_directory folder
       mv my_directory.. => move my_directory folder to an upper level directory
       mv my_file.txt example.txt => rename my_file.txt into example.txt
-  	
+ 
+cp
+  Copy a file
+  eg. cp my_file.txt my_directory => copy my_file.txt to my_directory folder
+
+cp -r
+  Copy a folder
+  eg. cp -r my_directory Documents => copy my_directory folder to Documents folder
