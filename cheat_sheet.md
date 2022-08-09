@@ -1,7 +1,5 @@
 
-# Command
-
-## Directory & File
+# Directory & File
 
 > ### $ pwd
 > 
@@ -95,3 +93,48 @@
 >> #### $ open \<file>
 >>
 >> #### $ open \<directory>
+<br>
+
+# Git
+
+> ### $ git init
+>
+> Set up an empty Git repository in the current directory
+
+> ### $ git status
+>
+> Check the status, what git looks like at the current stage
+
+> ### $ git add \<file>
+> 
+> Snapshot the current change of the new or modified file
+>
+> ### $ git add .
+> Add all the changes directly
+
+> ### $ git commit -m \"\<commit>"
+> 
+> Commit the changes from the staging area (git add)
+
+> ### $ git log
+>
+>  Check the commit message
+>
+>  Press ***q*** to quit the log
+
+> ### $ git revert \<first7digits of the commit in the log>
+>
+> Undo a commit change
+
+> ### $ git remote add origin \<SSH>
+> 
+> ### $ git push origin main
+> 
+> Upload codes into a Github repository being created
+
+> ### $ git clone \<SSH>
+> Clone a repository
+
+> ### $ git pull
+> 
+> Update the remote repository
