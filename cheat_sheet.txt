@@ -31,3 +31,11 @@ mkdir
 touch
   Create a file in the current directory
   eg. touch my_file.txt => create a file named my_file
+
+rm
+  Delete a file
+  eg. rm my_file.txt
+
+rm -r
+  Delete a folder
+  eg. rm -r my_directory
