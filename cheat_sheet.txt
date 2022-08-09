@@ -13,3 +13,13 @@ ls -a
 
 ls -al
   A list of files and folders including hiding files with details
+
+cd
+  Go back to the root folder
+
+cd Documents
+  Go to the Documents folder as an example
+  Or \tab to choose a directory at the current level and get deeper
+
+cd ..
+  Go back to one upper level directory
