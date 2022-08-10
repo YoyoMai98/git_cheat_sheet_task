@@ -126,7 +126,9 @@
 > Undo a commit change
 
 > ### $ git remote add origin \<SSH>
-> 
+>
+> Connect the local repository to Github
+
 > ### $ git push origin main
 > 
 > Upload codes into a Github repository being created
