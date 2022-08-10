@@ -31,9 +31,9 @@
 >
 > Go to the specified directory
 >
-> ### $ cd *`tab`*
+> ### $ cd `tab`
 > 
-> Press ***tab*** to choose a directory at the current level and get deeper
+> Press `tab` to choose a directory at the current level and get deeper
 >
 > ### $ cd ..
 >
@@ -93,7 +93,6 @@
 >> #### $ open \<file>
 >>
 >> #### $ open \<directory>
-<br>
 
 # Git
 
